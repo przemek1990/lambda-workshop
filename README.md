@@ -12,7 +12,7 @@
 ## BUILDING UBER JAR
 
 ```
-gradle build
+./gradlew build
 ```
 
 Build result in *build/libs*
